@@ -32,4 +32,9 @@ public class Alfil extends Reina{
     }
     //
 
+    @Override
+    public boolean canMove(int X, int Y) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 } // End class
